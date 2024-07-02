@@ -1,1 +1,2 @@
-ALteração via GitHub 1
+Alteração via GitHub 1
+Alteração via Git 2
